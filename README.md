@@ -9,4 +9,3 @@ Pretty rainbow cycles for the Make Zurich 2020 badge
 Depends on the following Arduino libraries to be installed
 (Tools -> Manage Libraries -> Search)
 - Adafruit_Neopixel
-- Arduino_APDS9960
